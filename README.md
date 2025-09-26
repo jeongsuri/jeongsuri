@@ -1,8 +1,8 @@
  
 <h3 align="center">💻 SNS & Email ✉️</h3>
 <p align="center">
- <a href="https://velog.io/@zzzang_hyeon"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white">
- <a href="mailto:dkemfdk4@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white">
+ <a href="https://velog.io/@jeongsuri/posts"><img src="https://img.shields.io/badge/velog-20C997?style=plastic&logo=velog&logoColor=white">
+ <a href="mailto:jeongsuri96@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white">
   <br>
 <br>
 <div align=center><h3>📚 STACKS & TOOLS 🛠</h3></div>
@@ -39,8 +39,3 @@
   <br><br>
 </div>
 <br><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KIMJEONGHYEON1016&show_icons=true&theme=radical" alt="Anurag's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KIMJEONGHYEON1016&layout=compact&theme=radical" alt="Top Langs" />
-</div>
-
